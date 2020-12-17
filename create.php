@@ -8,7 +8,7 @@
 	$server = "school.stregasystem.com";
 	$username = "schoolst_demo";
 	$password = "Hola2020@@";
-	$database = "schoolst_mony";
+	$database = "schoolst_testing";
 	
 	// Creación de la conexión a la Base de Datos con mysql_connect()
   try {
